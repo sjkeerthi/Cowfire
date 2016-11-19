@@ -1,0 +1,8 @@
+name: Cowfire
+description: |
+  This is the Sample Rancher Catalog Demo
+version: 0.0.1
+category: Cowfire
+maintainer: Keerhiraja <sjkeerthi@gmail.com>
+license: GPL
+projectURL: https://github.com/sjkeerthi/Cowfire
