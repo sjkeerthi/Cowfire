@@ -1,4 +1,4 @@
 Cowfire:
   image: bitnami/apache:latest
   ports:
-    - 80:80
+    - 96:96
