@@ -2,8 +2,6 @@
   name: "Cowfire"
   version: "v0.0.1-Cowfire"
   description: "Simple Apache"
-  uuid: Cowfire-0
-  minimum_rancher_version: v0.51.0
   questions:    
     - variable: public_port
       description: "public port to access the Cowfire"
