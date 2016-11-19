@@ -1,0 +1,13 @@
+.catalog:
+  name: "Cowfire"
+  version: "v0.0.1-Cowfire"
+  description: "Simple Apache"
+  questions:    
+    - variable: public_port
+      description: "public port to access the Cowfire"
+      label: "Public Port"
+      required: true
+      default: "8090"
+      type: "int"
+
+cowfire:

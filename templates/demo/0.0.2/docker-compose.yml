@@ -1,0 +1,2 @@
+Cowfire:
+  image: bitnami/apache:latest
