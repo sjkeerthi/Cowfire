@@ -1,0 +1,8 @@
+name: Cowfire
+description: >
+  A Demo of Rancher Catalog of Apache
+version: 0.0.1
+category: demo
+maintainer: Keerthiraja <sjkeerthi@gmail.com>
+license: Apache2
+projectURL: https://github.com/sjkeerthi/Cowfire
