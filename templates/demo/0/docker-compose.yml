@@ -1,4 +1,5 @@
 version: '2'
+
 services:
   apache:
     image: 'bitnami/apache:latest'
