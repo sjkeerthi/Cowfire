@@ -1,6 +1,6 @@
 .catalog:
   name: "Cowfire"
-  version: "v0.0"
+  version: "v0.0.1-Cowfire"
   description: "Simple Apache"
   uuid: Cowfire-0
   minimum_rancher_version: v0.51.0
@@ -13,4 +13,3 @@
       type: "int"
 
 cowfire:
-
