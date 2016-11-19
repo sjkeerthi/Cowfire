@@ -9,7 +9,7 @@
       description: "public port to access the Cowfire"
       label: "Public Port"
       required: true
-      default: "80"
+      default: "8090"
       type: "int"
 
 cowfire:
